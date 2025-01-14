@@ -1,0 +1,25 @@
+testy:
+
+czy dana produkcja się wykonała (ile razy)
+
+test czy jak było boundary = 1 to będzie hanging na 0
+
+1. prosty test
+czy produkcja się wykona z różną ilością hanging node
+
+2.  większy graf
+- ilość wierzchołków
+- ilość Q
+- ilość krawędzi
+- sprawdzenie boundary
+- ewentualnie połączenia
+
+
+
+Projekt - zadanie 1
+- implementacja produkcji
+- opis testów, które zostały zaimplementowane
+- zastosowanie produkcji do danego grafu
+ - screen grafu początkowego
+ - screen grafu po zasosowaniu produkcji
+ - i to samo na większym grafie
